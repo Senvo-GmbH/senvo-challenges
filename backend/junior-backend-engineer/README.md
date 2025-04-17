@@ -74,7 +74,7 @@ Your application should provide a JSON API with the following endpoints:
 - **Creativity**: How did you approach the fun elements of the challenge?
 
 ## Submission Guidelines
-- Create a GitHub repository with your solution
+- Create a private GitHub repository with your solution
 - Include a README with:
   - Setup instructions
   - Brief explanation of your approach
